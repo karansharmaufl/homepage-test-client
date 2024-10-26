@@ -2,7 +2,7 @@
   "name": "homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://karansharmaufl.github.io/homepage",
+  "homepage": "https://karansharmaufl.github.io/homepage-test-client",
   "bin": "./cli.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
